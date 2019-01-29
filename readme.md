@@ -23,7 +23,7 @@ For submission of this challenge, touch a new file with the SQL statements you'v
 
 ### Addresses that have a space in their city name.
 
-### Students & their addresses that live in a city with more than word in the city name.
+### Students & their addresses that live in a city with more than one word in the city name.
 
 ### The average number of credits for classes offered at the school.
 
