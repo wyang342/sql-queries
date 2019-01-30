@@ -1,6 +1,6 @@
 # SQL Queries
 
-In this challenge you'll be be writing a number of different SQL queries against our school database. Once you have a working query, check your work against the solution provided. Be sure to compare your results with the solution's results when available.
+In this challenge you'll be be writing a number of different SQL queries against our school database. Once you have a working query, check your work against the solution provided.
 
 For submission of this challenge, touch a new file with the SQL statements you've written to get the desired result
 
