@@ -1,8 +1,8 @@
 # SQL Queries
 
-In this challenge you'll be be writing a number of different SQL queries against our school database. Once you have a working query, check your work against the solution provided.
+In this challenge you'll be be writing a number of different SQL queries against our school database. Once you have a working query, check your work against the database.
 
-For submission of this challenge, touch a new file with the SQL statements you've written to get the desired result
+For submission of this challenge, touch a new file with the SQL statements you've written to get the desired result.
 
 
 ### All rows from the `classes` table.
