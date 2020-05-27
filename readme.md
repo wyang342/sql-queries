@@ -5,7 +5,7 @@ In this challenge you'll be be writing a number of different SQL queries against
 For submission of this challenge, touch a new file with the SQL statements you've written to get the desired result.
 
 
-### All rows from the `classes` table.
+### Select all rows from the `classes` table.
 
 ### Select the `name` and `credits` from the `classes` table where the number of credits is greater than 3.
 
